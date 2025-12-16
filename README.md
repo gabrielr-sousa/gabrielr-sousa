@@ -9,21 +9,6 @@
   Building <b>scalable</b>, <b>observable</b> and <b>reliable</b> data platforms
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rsgabriel-sousa" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/gabrielr-sousa" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111827?logo=github&logoColor=white" />
-  </a>
-  <a href="#" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20Observability-0EA5E9" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Bras%C3%ADlia%2C%20BR-22C55E" />
-</p>
-
-
-
 <hr/>
 
 <!-- ===================== QUICK FACTS ===================== -->
